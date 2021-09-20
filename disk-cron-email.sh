@@ -1,6 +1,6 @@
 #!/bin/sh
 
-email="it-support@pixelzoo.com.au"
+email="example@example.com"
 
 du -hcs | while read output;
 do
